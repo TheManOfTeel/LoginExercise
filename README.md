@@ -1,2 +1,2 @@
 # LoginExercise
- A simple MVC login exercies
+ A simple MVC login exercise
